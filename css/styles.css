@@ -550,10 +550,11 @@ em {
 .footer p.company-info {
   margin-bottom: 2rem;
 }
-/*dropdown menu*/
-/*dropdown menu end*/
 .pushy ul:first-child {
   margin-top: 40px;
+}
+#container {
+  display: none;
 }
 /* hamburger animation */
 #container {
@@ -569,10 +570,10 @@ em {
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
-  -webkit-transition: 0.5s ease-in-out;
-  -moz-transition: 0.5s ease-in-out;
-  -o-transition: 0.5s ease-in-out;
-  transition: 0.5s ease-in-out;
+  -webkit-transition: 0.8s ease-in-out;
+  -moz-transition: 0.8s ease-in-out;
+  -o-transition: 0.8s ease-in-out;
+  transition: 0.8s ease-in-out;
   cursor: pointer;
 }
 .menu-btn span {
